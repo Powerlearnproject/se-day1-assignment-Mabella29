@@ -180,7 +180,9 @@ Importance: Ensures the product is ready for deployment and satisfies users.
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 solution:
+
 prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 Importance:
 Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
